@@ -1,0 +1,36 @@
+package loop;
+
+import java.util.Scanner;
+
+public class NestedForLoop {
+
+// User will give the number and it will print as a Row Basis
+
+    // Output
+    // 1
+    // 1 2
+    // 1 2 3
+    // 1 2 3 4
+    // 1 2 3 4 5
+
+    public static void main(String[] args) {
+
+        Scanner number=new Scanner(System.in);
+        System.out.println("Enter the Number of Row");
+
+        int numOfRow=number.nextInt();
+        // i is working as column wise
+        for(int i=1; i<=numOfRow;i++){
+
+            // j is working as Row wise
+            for (int j=1; j<=i; j++ ){
+                System.out.print(j+" ");
+            }
+
+            System.out.println();
+
+        }
+
+    }
+
+}
