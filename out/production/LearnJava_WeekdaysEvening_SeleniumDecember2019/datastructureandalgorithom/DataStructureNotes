@@ -1,0 +1,11 @@
+
+#Map:
+Few characteristics of the Map Interface are:
+
+A Map cannot contain duplicate keys and each key can map to at most one value.
+Some implementations allow null key and null value like the HashMap and LinkedHashMap,
+but some do not like the TreeMap.
+The order of a map depends on specific implementations,
+e.g TreeMap and LinkedHashMap have predictable order, while HashMap does not.
+There are two interfaces for implementing Map in java: Map and SortedMap,
+and three classes: HashMap, TreeMap and LinkedHashMap.

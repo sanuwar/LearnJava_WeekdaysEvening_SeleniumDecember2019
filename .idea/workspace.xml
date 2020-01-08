@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="199b6afa-b93c-4570-915e-cf658e112377" name="Default Changelist" comment="" />
+    <list default="true" id="199b6afa-b93c-4570-915e-cf658e112377" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/mySql/mysql-connector-java-8.0.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/list/UseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/map/HashMapTraverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/map/UseListHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/map/UseMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/queue/UsePriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/queue/UseQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/sorting/UseSwap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/stack/UseStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unittesting/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unittesting/TestCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearnJava_WeekdaysEvening_SeleniumDecember2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LearnJava_WeekdaysEvening_SeleniumDecember2019.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/recursion/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/recursion/Pizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/ArrayNotes" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/array/ArrayNotes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/Help.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/array/Help.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/Use3DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/array/Use3DArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/UseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/array/UseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/UseArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/array/UseArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/UseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/array/UseList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/UseTwoDArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/array/UseTwoDArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursion/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/Pizza.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +36,71 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/recursion/Pizza.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/DataStructureNotes">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="242">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/queue/UseQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/sorting/InsertionSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/sorting/UseSwap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/stack/UseStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/unittesting/Calculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/unittesting/TestCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -29,10 +114,27 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/recursion/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/datastructureandalgorithom/DataStructureNotes" />
+        <option value="$PROJECT_DIR$/src/datastructureandalgorithom/map/UseMap.java" />
+        <option value="$PROJECT_DIR$/src/datastructureandalgorithom/map/Help.java" />
+        <option value="$PROJECT_DIR$/src/datastructureandalgorithom/map/HashMapTraverse.java" />
+        <option value="$PROJECT_DIR$/src/datastructureandalgorithom/map/UseListHashMap.java" />
+        <option value="$PROJECT_DIR$/src/datastructureandalgorithom/list/UseLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/datastructureandalgorithom/queue/UseQueue.java" />
+        <option value="$PROJECT_DIR$/src/datastructureandalgorithom/queue/PriorityQueue.java" />
+        <option value="$PROJECT_DIR$/src/datastructureandalgorithom/queue/UsePriorityQueue.java" />
+        <option value="$PROJECT_DIR$/src/datastructureandalgorithom/sorting/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/datastructureandalgorithom/sorting/UseSwap.java" />
+        <option value="$PROJECT_DIR$/src/datastructureandalgorithom/stack/UseStack.java" />
+        <option value="$PROJECT_DIR$/src/unittesting/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/unittesting/TestCalculator.java" />
       </list>
     </option>
   </component>
@@ -55,6 +157,33 @@
               <item name="LearnJava_WeekdaysEvening_SeleniumDecember2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearnJava_WeekdaysEvening_SeleniumDecember2019" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LearnJava_WeekdaysEvening_SeleniumDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnJava_WeekdaysEvening_SeleniumDecember2019" type="462c0819:PsiDirectoryNode" />
+              <item name="DataTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnJava_WeekdaysEvening_SeleniumDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnJava_WeekdaysEvening_SeleniumDecember2019" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnJava_WeekdaysEvening_SeleniumDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnJava_WeekdaysEvening_SeleniumDecember2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnJava_WeekdaysEvening_SeleniumDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnJava_WeekdaysEvening_SeleniumDecember2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructureandalgorithom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnJava_WeekdaysEvening_SeleniumDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnJava_WeekdaysEvening_SeleniumDecember2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="unittesting" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -66,7 +195,9 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578442348477" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578457680818" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/poi-4.1.1/lib/log4j-1.2.17.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -76,6 +207,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\SOFTWARE ENGINEERING\PROJECTS\IdeaProjects\PNT\LearnJava_WeekdaysEvening_SeleniumDecember2019\lib\mySql" />
+      <recent name="G:\SOFTWARE ENGINEERING\PROJECTS\IdeaProjects\PNT\LearnJava_WeekdaysEvening_SeleniumDecember2019\src\datastructureandalgorithom" />
+      <recent name="G:\SOFTWARE ENGINEERING\PROJECTS\IdeaProjects\PNT\LearnJava_WeekdaysEvening_SeleniumDecember2019" />
       <recent name="G:\SOFTWARE ENGINEERING\PROJECTS\IdeaProjects\PNT\LearnJava_WeekdaysEvening_SeleniumDecember2019\src" />
     </key>
   </component>
@@ -91,13 +225,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Pizza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.Pizza" />
+  <component name="RunManager" selected="Application.TestCalculator">
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructureandalgorithom.sorting.InsertionSort" />
       <module name="LearnJava_WeekdaysEvening_SeleniumDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="recursion.*" />
+          <option name="PATTERN" value="datastructureandalgorithom.sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unittesting.TestCalculator" />
+      <module name="LearnJava_WeekdaysEvening_SeleniumDecember2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unittesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsePriorityQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructureandalgorithom.queue.UsePriorityQueue" />
+      <module name="LearnJava_WeekdaysEvening_SeleniumDecember2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructureandalgorithom.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructureandalgorithom.stack.UseStack" />
+      <module name="LearnJava_WeekdaysEvening_SeleniumDecember2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructureandalgorithom.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseSwap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructureandalgorithom.sorting.UseSwap" />
+      <module name="LearnJava_WeekdaysEvening_SeleniumDecember2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructureandalgorithom.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,7 +293,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pizza" />
+        <item itemvalue="Application.TestCalculator" />
+        <item itemvalue="Application.UseStack" />
+        <item itemvalue="Application.UseSwap" />
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.UsePriorityQueue" />
       </list>
     </recent_temporary>
   </component>
@@ -121,15 +311,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578441581928</updated>
-      <workItem from="1578441588194" duration="607000" />
+      <workItem from="1578441588194" duration="15944000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="607000" />
+    <option name="totallyTimeSpent" value="15944000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -138,16 +329,16 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40425533" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30932897" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -167,16 +358,265 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/datareader/ReadFile.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop/Encapsulation/TestComputer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gitTeamWork/Help.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop/abstraction/NewCar.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop/abstraction/Test.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/Car.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oop/inheritance/Bmw.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controlflow/UseIfElseIf.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/singleton/Computer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basic/UseDataType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/excelreadandwrite/ReadExcelFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/recursion/Pizza.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="17" />
+        <state relative-caret-position="343">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/array/UseTwoDArray.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/array/Use3DArray.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/array/UseArray.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/array/Help.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/array/UseList.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/array/UseArrayList.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="375" column="11" lean-forward="true" selection-start-line="375" selection-start-column="11" selection-end-line="375" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="48" column="27" lean-forward="true" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="138" column="19" selection-start-line="138" selection-start-column="4" selection-end-line="138" selection-end-column="19" />
+          <folding>
+            <element signature="e#19327#19328#0" expanded="true" />
+            <element signature="e#19410#19411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/map/Help.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/map/HashMapTraverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#792#810#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/map/UseListHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/map/UseMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="19" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/array/ArrayNotes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="53" column="26" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/list/UseLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/DataStructureNotes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="213" column="6" lean-forward="true" selection-start-line="213" selection-start-column="6" selection-end-line="213" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/queue/UsePriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="e#211#220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/queue/UseQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/sorting/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/sorting/UseSwap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/stack/UseStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/unittesting/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/unittesting/TestCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="41" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -191,6 +631,18 @@
       <state key="JdkListConfigurable.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>LearnJava_WeekdaysEvening_SeleniumDecember2019</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
