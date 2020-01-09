@@ -1,0 +1,12 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Öíòóıÿÿÿÿ8ƒØ•ø-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ù“ÀŸşÿÿÿÿ8í¶•ø-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(êìµ8Šê”ø-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÅòŸˆ8¼´©•ø-
+isquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(ÏÃÅ·8ÌÕƒ•ø-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(µÚ¼‘8òè¹•ø-
+gsquid:S4143"DVerify this is the key that was intended; it was already set before.(œÚë‘øÿÿÿÿ8ã³•ø-
+Wsquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(£Å¼Ãúÿÿÿÿ8å¡Ü•ø-

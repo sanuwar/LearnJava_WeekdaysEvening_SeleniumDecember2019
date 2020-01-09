@@ -2,30 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="199b6afa-b93c-4570-915e-cf658e112377" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/mySql/mysql-connector-java-8.0.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/list/UseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/map/HashMapTraverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/map/UseListHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/map/UseMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/queue/UsePriorityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/queue/UseQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/sorting/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/sorting/UseSwap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/stack/UseStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/unittesting/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/unittesting/TestCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/randomnumber/UseRandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/set/UseSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doenum/Fruits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doenum/UseEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc/ConnectMySqlDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc/MovieDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jdbc/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LearnJava_WeekdaysEvening_SeleniumDecember2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LearnJava_WeekdaysEvening_SeleniumDecember2019.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/recursion/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/recursion/Pizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/ArrayNotes" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/array/ArrayNotes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/Help.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/array/Help.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/Use3DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/array/Use3DArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/UseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/array/UseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/UseArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/array/UseArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/UseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/array/UseList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/UseTwoDArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/array/UseTwoDArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/sorting/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/datastructureandalgorithom/sorting/InsertionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/unittesting/TestCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava_WeekdaysEvening_SeleniumDecember2019/unittesting/TestCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructureandalgorithom/sorting/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructureandalgorithom/sorting/InsertionSort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,72 +25,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/DataStructureNotes">
+        <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/randomnumber/UseRandomNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/queue/UseQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/sorting/InsertionSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/sorting/UseSwap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/stack/UseStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/unittesting/Calculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="256">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/unittesting/TestCalculator.java">
+        <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/sorting/InsertionSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="41" />
+            <state relative-caret-position="286">
+              <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -110,6 +49,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -130,11 +70,22 @@
         <option value="$PROJECT_DIR$/src/datastructureandalgorithom/queue/UseQueue.java" />
         <option value="$PROJECT_DIR$/src/datastructureandalgorithom/queue/PriorityQueue.java" />
         <option value="$PROJECT_DIR$/src/datastructureandalgorithom/queue/UsePriorityQueue.java" />
-        <option value="$PROJECT_DIR$/src/datastructureandalgorithom/sorting/InsertionSort.java" />
         <option value="$PROJECT_DIR$/src/datastructureandalgorithom/sorting/UseSwap.java" />
         <option value="$PROJECT_DIR$/src/datastructureandalgorithom/stack/UseStack.java" />
         <option value="$PROJECT_DIR$/src/unittesting/Calculator.java" />
         <option value="$PROJECT_DIR$/src/unittesting/TestCalculator.java" />
+        <option value="$PROJECT_DIR$/src/doenum/Fruits.java" />
+        <option value="$PROJECT_DIR$/src/doenum/UseEnum.java" />
+        <option value="$PROJECT_DIR$/src/jdbc/Student.java" />
+        <option value="$PROJECT_DIR$/src/jdbc/User.java" />
+        <option value="$PROJECT_DIR$/src/jdbc/Movie.java" />
+        <option value="$PROJECT_DIR$/src/jdbc/MovieDemo.java" />
+        <option value="$PROJECT_DIR$/src/secret.properties" />
+        <option value="$PROJECT_DIR$/src/jdbc/ConnectMySqlDB.java" />
+        <option value="$PROJECT_DIR$/src/randomnumber/UseRandomNumber.java" />
+        <option value="$PROJECT_DIR$/src/datastructureandalgorithom/randomnumber/UseRandomNumber.java" />
+        <option value="$PROJECT_DIR$/src/datastructureandalgorithom/sorting/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/datastructureandalgorithom/set/UseSet.java" />
       </list>
     </option>
   </component>
@@ -150,6 +101,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,6 +122,12 @@
             <path>
               <item name="LearnJava_WeekdaysEvening_SeleniumDecember2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearnJava_WeekdaysEvening_SeleniumDecember2019" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="mySql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnJava_WeekdaysEvening_SeleniumDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnJava_WeekdaysEvening_SeleniumDecember2019" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -178,34 +136,30 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="datastructureandalgorithom" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LearnJava_WeekdaysEvening_SeleniumDecember2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnJava_WeekdaysEvening_SeleniumDecember2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="unittesting" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578457680818" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578543333727" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/poi-4.1.1/lib/log4j-1.2.17.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mySql/mysql-connector-java-8.0.17.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="datastructureandalgorithom.randomnumber" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\SOFTWARE ENGINEERING\PROJECTS\IdeaProjects\PNT\LearnJava_WeekdaysEvening_SeleniumDecember2019\lib\mySql" />
       <recent name="G:\SOFTWARE ENGINEERING\PROJECTS\IdeaProjects\PNT\LearnJava_WeekdaysEvening_SeleniumDecember2019\src\datastructureandalgorithom" />
@@ -225,7 +179,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestCalculator">
+  <component name="RunManager" selected="Application.InsertionSort">
+    <configuration name="ConnectMySqlDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbc.ConnectMySqlDB" />
+      <module name="LearnJava_WeekdaysEvening_SeleniumDecember2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="datastructureandalgorithom.sorting.InsertionSort" />
       <module name="LearnJava_WeekdaysEvening_SeleniumDecember2019" />
@@ -239,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unittesting.TestCalculator" />
+    <configuration name="MovieDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbc.MovieDemo" />
       <module name="LearnJava_WeekdaysEvening_SeleniumDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="unittesting.*" />
+          <option name="PATTERN" value="jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsePriorityQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructureandalgorithom.queue.UsePriorityQueue" />
+    <configuration name="UseEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="doenum.UseEnum" />
       <module name="LearnJava_WeekdaysEvening_SeleniumDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructureandalgorithom.queue.*" />
+          <option name="PATTERN" value="doenum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,25 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructureandalgorithom.stack.UseStack" />
+    <configuration name="UseRandomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructureandalgorithom.randomnumber.UseRandomNumber" />
       <module name="LearnJava_WeekdaysEvening_SeleniumDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructureandalgorithom.stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UseSwap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructureandalgorithom.sorting.UseSwap" />
-      <module name="LearnJava_WeekdaysEvening_SeleniumDecember2019" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="datastructureandalgorithom.sorting.*" />
+          <option name="PATTERN" value="datastructureandalgorithom.randomnumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -293,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestCalculator" />
-        <item itemvalue="Application.UseStack" />
-        <item itemvalue="Application.UseSwap" />
         <item itemvalue="Application.InsertionSort" />
-        <item itemvalue="Application.UsePriorityQueue" />
+        <item itemvalue="Application.UseRandomNumber" />
+        <item itemvalue="Application.ConnectMySqlDB" />
+        <item itemvalue="Application.MovieDemo" />
+        <item itemvalue="Application.UseEnum" />
       </list>
     </recent_temporary>
   </component>
@@ -311,68 +265,54 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578441581928</updated>
-      <workItem from="1578441588194" duration="15944000" />
+      <workItem from="1578441588194" duration="17054000" />
+      <workItem from="1578525762667" duration="16704000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15944000" />
+    <option name="totallyTimeSpent" value="33758000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16187595" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3289689" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="SonarLint" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.3289689" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30932897" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40425533" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="SonarLint" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/datareader/ReadFile.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/Encapsulation/TestComputer.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gitTeamWork/Help.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/abstraction/NewCar.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop/abstraction/Test.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/oop/inheritance/Car.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -438,17 +378,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="138" column="19" selection-start-line="138" selection-start-column="4" selection-end-line="138" selection-end-column="19" />
-          <folding>
-            <element signature="e#19327#19328#0" expanded="true" />
-            <element signature="e#19410#19411#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/map/Help.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -463,16 +392,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#792#810#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/map/UseListHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -511,13 +430,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/DataStructureNotes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="321">
@@ -535,10 +447,270 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/sorting/UseSwap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/unittesting/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/map/UseListHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="135" column="15" lean-forward="true" selection-start-line="135" selection-start-column="15" selection-end-line="135" selection-end-column="15" />
+          <folding>
+            <element signature="e#19327#19328#0" expanded="true" />
+            <element signature="e#19410#19411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/unittesting/TestCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/stack/UseStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/queue/UseQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/DataStructureNotes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/doenum/Fruits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/doenum/UseEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/sql/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/sql/Statement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="44" column="7" lean-forward="true" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/sql/DriverManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="688" selection-start-line="688" selection-end-line="688" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdbc/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#789#790#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+            <element signature="e#867#868#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+            <element signature="e#937#938#0" expanded="true" />
+            <element signature="e#971#972#0" expanded="true" />
+            <element signature="e#1008#1009#0" expanded="true" />
+            <element signature="e#1041#1042#0" expanded="true" />
+            <element signature="e#1093#1094#0" expanded="true" />
+            <element signature="e#1137#1138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="44" column="33" lean-forward="true" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="339" column="43" selection-start-line="339" selection-start-column="29" selection-end-line="339" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdbc/MovieDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="118" column="24" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdbc/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#834#835#0" expanded="true" />
+            <element signature="e#862#863#0" expanded="true" />
+            <element signature="e#904#905#0" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
+            <element signature="e#967#968#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
+            <element signature="e#1028#1029#0" expanded="true" />
+            <element signature="e#1056#1057#0" expanded="true" />
+            <element signature="e#1102#1103#0" expanded="true" />
+            <element signature="e#1200#1201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdbc/ConnectMySqlDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="202" column="5" lean-forward="true" selection-start-line="202" selection-start-column="5" selection-end-line="202" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/randomnumber/UseRandomNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/secret.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdbc/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+          <folding>
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/randomnumber/UseRandomNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/set/UseSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -547,46 +719,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/sorting/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/sorting/UseSwap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructureandalgorithom/stack/UseStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/unittesting/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/unittesting/TestCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="41" />
+        <state relative-caret-position="286">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
         </state>
       </provider>
     </entry>

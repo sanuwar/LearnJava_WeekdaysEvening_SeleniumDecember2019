@@ -1,0 +1,5 @@
+
+ssquid:S1149	"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ôþº¶øÿÿÿÿ8±Ñòšø-
+Nsquid:S1481"+Remove this unused "choice" local variable.(ÖÝÃ¹ùÿÿÿÿ8Ê°ïšø-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ºüÏÊ8Ê°ïšø-

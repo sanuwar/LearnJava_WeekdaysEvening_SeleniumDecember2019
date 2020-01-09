@@ -1,0 +1,6 @@
+
+[
+squid:S106("9Replace this use of System.out or System.err by a logger.(óÀ¦¿þÿÿÿÿ8ïþ±—ø-
+Vsquid:S1197"8Move the array designator from the variable to the type.(ÒôÆÉ8ïþ±—ø-
+Vsquid:S1197"8Move the array designator from the variable to the type.(ìÿ»ƒ8ïþ±—ø-
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶£’˜þÿÿÿÿ8ïþ±—ø-

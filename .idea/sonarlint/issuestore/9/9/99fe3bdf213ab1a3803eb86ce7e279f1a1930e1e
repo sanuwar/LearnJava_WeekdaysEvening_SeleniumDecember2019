@@ -1,0 +1,24 @@
+
+V
+squid:S106""9Replace this use of System.out or System.err by a logger.(…æÇ¦8ûÓ­™ø-
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(…æÇ¦8˜Îž™ø-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(•‘¢Õ8¨Õ¹™ø-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(…æÇ¦8àÅ”™ø-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(…æÇ¦8ß„ž™ø-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼÷Èõþÿÿÿÿ8¢€È™ø-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’÷³8õî‡™ø-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(áŒ•öøÿÿÿÿ8Öá—ø-
+Psquid:S1481"-Remove this unused "nameList" local variable.(Äèâ‹ùÿÿÿÿ8›—ÿ˜ø-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(…æÇ¦8òÆœ™ø-
+V
+squid:S106#"9Replace this use of System.out or System.err by a logger.(…æÇ¦8ûÓ­™ø-
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(áŒ•öøÿÿÿÿ8³Ñ³™ø-
+_squid:S1854"<Remove this useless assignment to local variable "nameList".(Äèâ‹ùÿÿÿÿ8›—ÿ˜ø-
