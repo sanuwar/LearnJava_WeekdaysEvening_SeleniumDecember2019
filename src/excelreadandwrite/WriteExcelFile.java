@@ -46,6 +46,7 @@ public class WriteExcelFile {
    for (Object field : datatype) {
 
     Cell cell = row.createCell(colNum++);
+
     if (field instanceof String) {
      cell.setCellValue((String) field);
     } else if (field instanceof Integer) {

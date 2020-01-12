@@ -12,15 +12,14 @@ import java.util.Iterator;
 
 public class ReadExcelFile {
 
-    private static final String FILE_NAME = System.getProperty("user.dir") + "/DataTest/Sample.xlsx";
+    private static final String FILE_NAME = System.getProperty("user.dir") + "/DataTest/Zahid1.xlsx";
 
     public static void main(String[] args) {
 
         try {
-
             FileInputStream excelFile = new FileInputStream(new File(FILE_NAME));
             Workbook workbook = new XSSFWorkbook(excelFile);
-            Sheet datatypeSheet = workbook.getSheetAt(1);
+            Sheet datatypeSheet = workbook.getSheetAt(0);
 
             Iterator<Row> iterator = datatypeSheet.iterator();
 
@@ -34,9 +33,9 @@ public class ReadExcelFile {
                     // getCellTypeEnum shown as deprecated for version 3.15
                     // getCellTypeEnum ill be renamed to getCellType starting from version 4.0
                     if (currentCell.getCellType() == CellType.STRING) {
-                        System.out.print(currentCell.getStringCellValue() + "--");
+                        System.out.print(currentCell.getStringCellValue() + " ");
                     } else if (currentCell.getCellType() == CellType.NUMERIC) {
-                        System.out.print(currentCell.getNumericCellValue() + "--");
+                        System.out.print(currentCell.getNumericCellValue() + " ");
                     }
 
                 }

@@ -1,0 +1,11 @@
+
+N
+squid:S106H"9Replace this use of System.out or System.err by a logger.(Çğõ"
+[squid:S2147E"DCombine this catch with the one at line 67, which has the same body.(ï­£Ä
+?squid:S1148D"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+gsquid:S1192"JDefine a constant instead of duplicating this literal "Primitive" 4 times.(ÂÃH8İî°­ù-
+T
+squid:S106%"9Replace this use of System.out or System.err by a logger.(´³Óûÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ñ´™¿
+?squid:S1148F"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+asquid:S2095"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(¸™á…

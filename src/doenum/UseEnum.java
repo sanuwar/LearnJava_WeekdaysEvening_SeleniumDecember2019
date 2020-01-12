@@ -1,5 +1,7 @@
 package doenum;
 
+import basic.Burger;
+
 enum MobileBrand{
     APPLE,SAMSUNG,LG;
 }
@@ -16,7 +18,7 @@ public class UseEnum{
     // Ex: Days, Colors
 
     enum Color {
-        RED, GREEN, BLUE, YELLOW;
+        RED_COLOR, GREEN_COLOR, BLUE_COLOR, YELLOW_COLOR, BLACK
 
 //        public final String name(){
 //
@@ -30,7 +32,7 @@ public class UseEnum{
     }
 
     public static void main(String[] args) {
-        Color cl = Color.BLUE;
+        Color cl = Color.BLUE_COLOR;
         System.out.println(cl);
 
         Level le=Level.HIGH;
@@ -44,6 +46,11 @@ public class UseEnum{
             System.out.println(lv);
 
         }
+
+        Burger br=Burger.CHEESE_BURGER;
+        System.out.println(br);
+
+
 
     }
 

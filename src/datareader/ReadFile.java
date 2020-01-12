@@ -19,7 +19,7 @@ public class ReadFile {
         bufferedReader=new BufferedReader(fileReader);
 
         String data;
-      data=bufferedReader.readLine();
+//      data=bufferedReader.readLine();
 
         while ( ( data=bufferedReader.readLine()) != null){
             System.out.println(data);
@@ -29,7 +29,6 @@ public class ReadFile {
             e.printStackTrace();
             System.out.println("File not Found");
         } finally {
-
 
             try {
                 fileReader.close();

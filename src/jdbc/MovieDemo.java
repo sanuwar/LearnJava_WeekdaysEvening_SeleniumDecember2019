@@ -7,6 +7,7 @@ import java.util.ArrayList;
 
 public class MovieDemo {
     public static void main(String[] args) throws Exception {
+        // JDBC connection
         String url = "jdbc:mysql://localhost:3306/pnt?serverTimezone=UTC";
         String user = "root";
         String password = "Rootroot123456";

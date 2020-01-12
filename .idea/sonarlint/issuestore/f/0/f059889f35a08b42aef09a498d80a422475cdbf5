@@ -1,0 +1,9 @@
+
+Csquid:S2068" Remove this hard-coded password.(ä¢ôŞüÿÿÿÿ8Ñ”¾ø-
+tsquid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(Å‰Ş®8àÕ¾ø-
+nsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(©¿ãùÿÿÿÿ8×Šï¾ø-
+esquid:S22590"GA "NullPointerException" could be thrown; "statement" is nullable here.(³úÀ‹8àÕ¾ø-
+Fsquid:S1148."#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8àÕ¾ø-
+isquid:S1192"FDefine a constant instead of duplicating this literal "PG-13" 3 times.(Øíå¸ÿÿÿÿÿ8àÕ¾ø-
+nsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(Çßıÿÿÿÿ8Èø‚¿ø-
+ksquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ä¢ôŞüÿÿÿÿ8Ñ”¾ø-

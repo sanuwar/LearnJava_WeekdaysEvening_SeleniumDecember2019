@@ -1,0 +1,74 @@
+
+Fsquid:S1148c"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÍÎê½ø-
+Hsquid:S00108D")Either remove or fill this block of code.(”ı¾8¼ƒë½ø-
+wsquid:S2293y"YReplace the type specification in this constructor call with the diamond operator ("<>").(Úï¦ã8¼ƒë½ø-
+Ysquid:S2696}"6Make the enclosing method "static" or remove this set.(’ñğ¶úÿÿÿÿ8¼ƒë½ø-
+Fsquid:S1148p"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÍÎê½ø-
+Fsquid:S1148t"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¼ƒë½ø-
+csquid:S2147s"ECombine this catch with the one at line 111, which has the same body.(ıàÑÎ8¼ƒë½ø-
+psquid:S2077\"RUse a variable binding mechanism to construct this query instead of concatenation.(®ÒÑÓ8¼ƒë½ø-
+Gsquid:S1148­"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¼ƒë½ø-
+Tsquid:S2696."6Make the enclosing method "static" or remove this set.(À£ˆ8¼ƒë½ø-
+Tsquid:S2696~"6Make the enclosing method "static" or remove this set.(ƒÔí‘8¼ƒë½ø-
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(í€ôï8¼ƒë½ø-
+ksquid:S1192\"MDefine a constant instead of duplicating this literal "INSERT INTO " 4 times.(®ÒÑÓ8¼ƒë½ø-
+psquid:S2077l"RUse a variable binding mechanism to construct this query instead of concatenation.(®ÒÑÓ8¼ƒë½ø-
+bsquid:S2147d"DCombine this catch with the one at line 96, which has the same body.(ıàÑÎ8¼ƒë½ø-
+\
+squid:S106È"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ8¼ƒë½ø-
+psquid:S2077."RUse a variable binding mechanism to construct this query instead of concatenation.(À£ˆ8¼ƒë½ø-
+usquid:S00117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËòÎ¨ûÿÿÿÿ8¼ƒë½ø-
+dsquid:S2147—"ECombine this catch with the one at line 149, which has the same body.(É®£8ÍÎê½ø-
+Fsquid:S1148e"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¼ƒë½ø-
+"squid:ClassVariableVisibilityCheck"SMake connect a static final constant or non-public and provide accessors if needed.(¬öş†úÿÿÿÿ8ÍÎê½ø-
+vsquid:S2737"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û8¼ƒë½ø-
+usquid:S2077V"RUse a variable binding mechanism to construct this query instead of concatenation.(±Á¬Ôüÿÿÿÿ8ÍÎê½ø-
+wsquid:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(Úï¦ã8¼ƒë½ø-
+dsquid:S2147¬"ECombine this catch with the one at line 168, which has the same body.(ıàÑÎ8¼ƒë½ø-
+Psquid:S1444"-Make this "public static connect" field final(¬öş†úÿÿÿÿ8ÍÎê½ø-
+Tsquid:S2696\"6Make the enclosing method "static" or remove this set.(®ÒÑÓ8¼ƒë½ø-
+Zsquid:S2696‹"6Make the enclosing method "static" or remove this set.(±Á¬Ôüÿÿÿÿ8¨Íè½ø-
+Zsquid:S2696"6Make the enclosing method "static" or remove this set.(—ş“øÿÿÿÿ8¼ƒë½ø-
+bsquid:S2147b"DCombine this catch with the one at line 96, which has the same body.(É®£8ÍÎê½ø-
+Gsquid:S1148–"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÍÎê½ø-
+Ysquid:S2696V"6Make the enclosing method "static" or remove this set.(±Á¬Ôüÿÿÿÿ8¨Íè½ø-
+fsquid:S2095º"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(² €í8ÇèğÀø-
+Fsquid:S1148r"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÍÎê½ø-
+W
+squid:S106Ğ"9Replace this use of System.out or System.err by a logger.(’’©ã8¼ƒë½ø-
+Usquid:S2696"6Make the enclosing method "static" or remove this set.(®ÒÑÓ8¼ƒë½ø-
+Osquid:S1172J"1Remove this unused method parameter "resultSet2".(”ŠÆİ8¼ƒë½ø-
+Fsquid:S1148a"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÍÎê½ø-
+Gsquid:S1148š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¼ƒë½ø-
+usquid:S27371"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û8¼ƒë½ø-
+ksquid:S1192\"MDefine a constant instead of duplicating this literal " ) VALUES(?)" 3 times.(®ÒÑÓ8¼ƒë½ø-
+Š"squid:ClassVariableVisibilityCheck"UMake resultSet a static final constant or non-public and provide accessors if needed.(îäå8¼ƒë½ø-
+dsquid:S2147™"ECombine this catch with the one at line 149, which has the same body.(ıàÑÎ8¼ƒë½ø-
+Ksquid:S1444"(Make this "public static ps" field final(âÖˆıÿÿÿÿ8¼ƒë½ø-
+csquid:S2147q"ECombine this catch with the one at line 111, which has the same body.(É®£8ÍÎê½ø-
+qsquid:S2077¢"RUse a variable binding mechanism to construct this query instead of concatenation.(ô™Üü8¼ƒë½ø-
+usquid:S2077X"RUse a variable binding mechanism to construct this query instead of concatenation.(—ş“øÿÿÿÿ8¼ƒë½ø-
+dsquid:S2147ª"ECombine this catch with the one at line 168, which has the same body.(É®£8ÍÎê½ø-
+"squid:ClassVariableVisibilityCheck"UMake statement a static final constant or non-public and provide accessors if needed.(»Şãÿÿÿÿÿ8ÍÎê½ø-
+usquid:S00117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¸Äâùÿÿÿÿ8¼ƒë½ø-
+wsquid:S2293K"YReplace the type specification in this constructor call with the diamond operator ("<>").(ì£©8¼ƒë½ø-
+Gsquid:S1148˜"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÍÎê½ø-
+Msquid:S1444"/Make this "public static resultSet" field final(îäå8¼ƒë½ø-
+Gsquid:S1148«"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÍÎê½ø-
+W
+squid:S106Ç"9Replace this use of System.out or System.err by a logger.(ê­ºŞ8¼ƒë½ø-
+fsquid:S2095¸"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ğ×8ÍÎê½ø-
+Rsquid:S1444"/Make this "public static statement" field final(»Şãÿÿÿÿÿ8ÍÎê½ø-
+Ysquid:S2696X"6Make the enclosing method "static" or remove this set.(—ş“øÿÿÿÿ8¼ƒë½ø-
+jsquid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(Œ³®»8¼ƒë½ø-
+ˆ"squid:ClassVariableVisibilityCheck"NMake ps a static final constant or non-public and provide accessors if needed.(âÖˆıÿÿÿÿ8¼ƒë½ø-
+vsquid:S2077"RUse a variable binding mechanism to construct this query instead of concatenation.(—ş“øÿÿÿÿ8¼ƒë½ø-
+Gsquid:S1148©"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÍÎê½ø-
+qsquid:S2077"RUse a variable binding mechanism to construct this query instead of concatenation.(®ÒÑÓ8¼ƒë½ø-
+jsquid:S00112)"FDefine and throw a dedicated exception instead of using a generic one.(‚˜–ùÿÿÿÿ8¼ƒë½ø-
+Ysquid:S2696-"6Make the enclosing method "static" or remove this set.(’ñğ¶úÿÿÿÿ8¼ƒë½ø-
+Tsquid:S2696l"6Make the enclosing method "static" or remove this set.(®ÒÑÓ8¼ƒë½ø-
+Usquid:S2696¢"6Make the enclosing method "static" or remove this set.(ô™Üü8¼ƒë½ø-
+vsquid:S2077‹"RUse a variable binding mechanism to construct this query instead of concatenation.(±Á¬Ôüÿÿÿÿ8ÍÎê½ø-
+dsquid:S00112x"FDefine and throw a dedicated exception instead of using a generic one.(ˆÖ¢D8¼ƒë½ø-
