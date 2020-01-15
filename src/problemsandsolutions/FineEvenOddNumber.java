@@ -17,7 +17,6 @@ public class FineEvenOddNumber {
         numberSize=input.nextInt();
         FineEvenOddNumber.isEvenOrOdd();
 
-
     }
 
     public static void isEvenOrOdd() {
