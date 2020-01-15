@@ -11,7 +11,7 @@ public class SwitchCase {
 
 		switch (menuNumber) {
 		case 1:
-			foodName = "Coffee";
+			foodName = "Biriyani";
 			break;
 		case 2:
 			foodName = "Burger";
